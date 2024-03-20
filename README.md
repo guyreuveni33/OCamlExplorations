@@ -1,4 +1,4 @@
-# OCaml Code Overview: OCamlExplorations
+# OCaml Assignment 1: OCamlExplorations
 
 This document serves as an overview for the first assignment in the "Programming Languages" course (קורס שפות תכנות). It details the functionality implemented across four OCaml files: lists.ml, trees.ml, variants.ml, and hardquestions.ml. Each file addresses different aspects of programming concepts, from list manipulation and binary search tree construction to defining and working with custom types representing geometric shapes.
 
