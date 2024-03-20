@@ -1,6 +1,6 @@
-# OCaml Code Overview
+# OCaml Code Overview: OCamlExplorations
 
-This document provides an overview of the functionality implemented across four OCaml files: `lists.ml`, `trees.ml`, `variants.ml`, and `hardquestions.ml`. Each file contains functions and type definitions for various operations, including list manipulation, binary search tree construction, and working with custom types representing geometric shapes.
+This document serves as an overview for the first assignment in the "Programming Languages" course (קורס שפות תכנות). It details the functionality implemented across four OCaml files: lists.ml, trees.ml, variants.ml, and hardquestions.ml. Each file addresses different aspects of programming concepts, from list manipulation and binary search tree construction to defining and working with custom types representing geometric shapes.
 
 ## `lists.ml` - Working with Lists
 
